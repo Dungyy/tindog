@@ -10,7 +10,7 @@ https://dungyy.github.io/tindog/
 Made with 
 -HTML
 -CSS
--Bootstrap
+-Bootstrap4
 
 
 -Note-
